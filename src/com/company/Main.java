@@ -3,6 +3,7 @@ class main {
 
     public static void main(String[] args) {
 
+        System.out.println("Hello I'm Abc");
 
         Weekend student1 = new Weekend();
         student1.addDetails("Jane", "Malabe", "F", 1990, "DS", "QA");
